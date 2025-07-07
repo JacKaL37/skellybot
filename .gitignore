@@ -39,6 +39,9 @@ lerna-debug.log*
 .env.discord
 .env.deepseek
 .env.openai
+.env.anthropic
+.env.groq
+.env.skelly
 /.env.deepseek
 /.env.openai
 
